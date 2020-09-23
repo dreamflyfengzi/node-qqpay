@@ -1,3 +1,7 @@
+# QQ支付 for nodejs
+基于 [befinal tenpay]https://github.com/befinal/node-tenpay
+目前仅支持QQ红包,其他需变更url(暂时无时间变更)
+
 # 微信支付 for nodejs
 [![travis][travis]][travis-u] [![npm][npm]][npm-u] [![node][node]][node-u] [![issues][issues]][issues-u] [![commit][commit]][commit-u]
 
